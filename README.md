@@ -1,2 +1,1 @@
-# ReuploadUpdate
-this is for my program to check for updates
+Safety/Version checks for reuploader
